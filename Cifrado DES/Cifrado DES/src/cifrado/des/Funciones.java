@@ -23,7 +23,7 @@ import javax.crypto.spec.DESKeySpec;
 
 /**
  *
- * @author MARIA DEL REFUGIO
+ * 
  */
 public class Funciones {
     public void Ciframiento(String clave, String archivo) throws NoSuchAlgorithmException, NoSuchPaddingException, FileNotFoundException, IOException, IllegalBlockSizeException, BadPaddingException, InvalidKeyException, InvalidKeySpecException{
